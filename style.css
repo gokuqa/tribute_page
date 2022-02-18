@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: rgb(184, 142, 142);
+    color: aliceblue;
+}
+
+
+
+#dove-img{
+   background: rgb(141, 96, 96);
+   margin: 15px 0 5px 0;
+}
+img:hover{
+    background-color: rgb(180, 123, 123);
+    color: rgb(180, 123, 123);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2)
+
+}
+figcaption{
+    padding-bottom: 20px;
+}
+ul{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+#dreamcatcher{
+    position: relative ;
+    right: 90px;
+}
+.icons{
+    height: 30px;
+}
+footer{
+    background-color: black;
+}
+principal{
+    margin: 0px;
+}
